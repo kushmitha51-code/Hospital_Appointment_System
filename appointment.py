@@ -1,2 +1,2 @@
 print("Hospital Appointment Booking System")
-#changes made
+print("Patient Registration Module")
